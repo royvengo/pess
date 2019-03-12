@@ -18,6 +18,7 @@ function validateForm() {
 </head>
 <body>
 	<?php include "header.php";
+	// Go Royven
 		$con = mysql_connect("localhost","royvengo","1234567890");
 		if (!$con)
 			{

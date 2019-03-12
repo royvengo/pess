@@ -1,4 +1,5 @@
 <?php
+// Go Royven
 	if(!isset($_POST['submit']) && !isset($_POST['btnDispatch']))
 		header("Location: logcall.php");
 
